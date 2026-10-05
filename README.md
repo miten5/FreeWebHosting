@@ -1,5 +1,6 @@
 # ## Web Hosting
 
+  * [NovaCloud](https://nov4cloud.dpdns.org) -  Free webhosting with cPanel With no ads Powered by [myownfreehost](https://myownfreehost.net)
   * [000WebHost](https://www.000webhost.com/) — Zero cost website hosting with Apache, PHP, MySQL, cPanel with ads on the bottom of each pages!
   * [20i](https://www.20i.com/) — Free web hosting with no ads, on the same platform as paid plans. Includes a free CDN, 100 email addresses, SSL and over 80 one-click installs.
   * [Alwaysdata](https://www.alwaysdata.com/) — 100 MB free web hosting with support for MySQL, PostgreSQL, CouchDB, MongoDB, PHP, Python, Ruby, Node.js, Elixir, Java, Deno, custom web servers, access via FTP, WebDAV and SSH; mailbox, mailing list and app installer included.
